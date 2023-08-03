@@ -1,11 +1,22 @@
 ## Factions
 
 - Lords' Alliance: Committed to ensuring the safety of settlements by proactively dealing with dangers.
-- 
+- Harpers: 
+- Zhentarim
+- Order of the Gauntlet: Devout and vigilant group smite evil, enforce justice, etc. Retribution against those who cause harm to others.
 
 ## NPCs
 
-- Toblen Stonehill:
+### Gundrun Rockseeker
+ ![[Gundrun-Rockseeker.png]]
+- Historic links to characters
+- Source of info - spill the beans on the status quo in Phandalin
+- Longer term engagement around Gundrun's operations
+- Mention the orc raiders - payment!
+- Goblins have been ambushing people
+- Gundrun covered for Will
+
+### Toblen Stonehill:
 ![Toblen](toblen-stonehill.jpg)
 - Short, friendly, human in his 30s. 
 - Came from Triboar a few years back to be a prospector. Realised after the first two months that he knew a lot more about running an inn that he did about mining.
@@ -15,29 +26,54 @@
     - Unhappy that townmaster Harbin hasn't sorted it out.
     - Won't do anything himself, scared of reprisals to his wife and kids.
 
+Todo - Name of wife and kids
 
-
-- Elmar Barthen: 
+### Elmar Barthen
 ![Elmar](Elmar-barthen.jpg)
+- Len and balding. 50 or so. Kindly.
+- Two clerks Ander and Thistle who help in the shop.
 - Owns trading post. Pays reward for delivery.
+- Gundren is a friend. He is excited about the mine discovery.
+- If he learns of Gundens capture he urges the players to help.
+- Concerned about how redbrands affect business, town loaw and order. 
+- Tells players they are to be found at the sleeping giant inn.
+- Int check for background deets (DC 15)
+- Nundro and Tharden are camped somewhere outside of town, but he hasn't seen them in a tenday or more, expects them any day for supplies.
 
-- Daran Edermath*: Order of the gauntlet. Orchard keeper, former adventurer.
+### Daran Edermath*
+![[Daran-Edermath.jpg]]
+- Lean, silver haired fighter. Half elf, over 100.
+- Served as a marshal and herald ont he Dragon Coast
+- Order of the gauntlet. Orchard keeper, former adventurer.
+- Will be unhappy with Will and Ruaidhri if he can thell they are evil
+- Concerned about the redbrands. Someone should stand up to Glasstaff.
+- Knows the Redbrands hang out at the sleeping giant inn.
+- Knows their base is under Tresendar Manor, ruins at the east of the town.
 
-- Linene Graywind: Runs a trading post. reward for supplies
 
-- Halia Thornton*: Zhentarim
+### Linene Graywind
+- Runs a trading post (Lionshield Coster). reward for supplies
 
-- Qelline Alderleaf: Helpful farmer. Son knows secret way to redbrands camp.
+### Halia Thornton*
+- Zhentarim
 
-- Sister Garaele*: Harper Agent. Elf Cleric. Shrine of Luck.
+### Qelline Alderleaf
+- Helpful farmer. Son knows secret way to redbrands camp.
 
-- Harbin Wester: Townmaster
+### Sister Garaele*
+- Harper Agent. Elf Cleric. Shrine of Luck.
 
-- Sildar Hallwinter*: 
-    - Member of the Lord's alliance.
-    - Kind hearted, 50 years old
-    - Good guy
-    - Met Gundren in Neverwinter and agreed to accompany him to Phandalin
+### Harbin Wester
+- Townmaster
+
+### Sildar Hallwinter* 
+
+![[Sildar-Hallwinter.jpg]]
+
+- Member of the Lord's alliance.
+- Kind hearted, 50 years old
+- Good guy
+- Met Gundren in Neverwinter and agreed to accompany him to Phandalin
     - Wants to:
         - Help Gundren reopen the mine
         - Find Iarno
@@ -51,10 +87,13 @@
 - Gundren Rockseeker
 - Nundro and Tharden
 
-- Rygoth the Druid (Emerald Enclave)
-- ?? Glasstaf
-- Iarno Albrek:
-    - Lords Alliance
-    - Friend of Sildar
-    - Missing
-- Neznar the black spider
+### Rygoth the Druid (Emerald Enclave)
+
+### ?? Glasstaf
+
+### Iarno Albrek:
+- Lords Alliance
+- Friend of Sildar
+- Missing
+
+### Neznar the black spider

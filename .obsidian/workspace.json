@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "# DND Notes.md",
+                "file": "Sessions/Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "DND Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b4483a2eb6b519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "Characters/NPCs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,6 +98,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "66767dacac7a3f50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -171,8 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a083611daf7b491c",
+  "active": "b91707c153147fac",
   "lastOpenFiles": [
+    "DND Notes.md",
+    "Characters/NPCs.md",
+    "Characters/Daran-Edermath.jpg",
+    "Sessions/Session 1 Goblin Ambush.md",
+    "Sessions/Session 0.md",
+    "Combat.md",
+    "Characters/Sildar-Hallwinter.jpg",
+    "Resources.md",
+    "Characters/Gundrun-Rockseeker.png",
     "Maps/goblin ambush 40 x 30 no grid no footprints.jpg",
     "Maps/goblin ambush 40 x 30 no grid footprints.jpg",
     "Maps/goblin ambush 40 x 30 no footprints.jpg",
@@ -187,10 +215,7 @@
     "Maps/Cragmaw-Hideout.zip",
     "Maps/Cragmaw-Castle.zip",
     "Maps/Agathas-Lair.zip",
-    "# DND Notes.md",
     "dragonfinch.png",
-    "Characters/toblen-stonehill.jpg",
-    "Characters/NPCs.md",
-    "Sessions/Session 0.md"
+    "Characters/toblen-stonehill.jpg"
   ]
 }
