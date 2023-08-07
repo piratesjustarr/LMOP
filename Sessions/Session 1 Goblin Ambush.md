@@ -1,7 +1,5 @@
 
-
-
-
+## Ambush
 Cowards, Arrows, Run, Fight, Surrender!
 
 - vugdek  
@@ -14,3 +12,12 @@ Cowards, Arrows, Run, Fight, Surrender!
 - Pest  
 - Brainmush  
 - Weasel
+
+
+## Cragmaw
+
+Yeemik
+https://db4sgowjqfwig.cloudfront.net/images/5996138/yeemik-fat.jpg
+
+!i madd goblin -name Yeemik -hp 12 -note GoblinBoss
+
