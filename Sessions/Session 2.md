@@ -1,4 +1,6 @@
-Precis
+# Phandalin
+
+## Precis
 
 - Left neverwinter to help Gundren with a job, but he hinted that there were plenty of opportunities for fortune and glory.
 - Followed half a day behind him and sildar by cart. Sildar is looking for his friend Iarno Albreck.
@@ -13,8 +15,12 @@ Precis
 - Toblen complained about a local gang called the Redbrands, who have been making trouble in the town.
 
 ## Stonehill inn
+
 Toblen
-- Sildar resting his wounds, Sister Garaele attended him in the morning for healing and he should be up and about tomorrow. 
+- Sildar resting his wounds, Sister Garaele attended him in the morning for healing and he should be up and about tomorrow.
+
+Rumours:
+
 - Narth, Old Farmer: Sister Garaele recently left town for a few days and returned injured and exhausted.
 - Elsa, barmaid: Daran Edermath up at the orchard was an adventurer like you. He knows all sorts of things.
 - Lanar, a miner: Orc raiders on the eastern triboar trail, Master Harben is looking for someone to run them off.
@@ -24,52 +30,70 @@ Toblen
 
 - People have already heard about the rescue of a knight.
 - Impressed also at returning the goods for Lenine.
-# Adler outside
+
+### Adler outside
+
 - Anyone has jobs to do?
-	- Straight to Barthen's provisions
-	- Sell on to Lionshield Coster
-# Redbrands Encounter
+- Straight to Barthen's provisions
+- Sell on to Lionshield Coster
+
+### Redbrands Encounter
+
 - Redbrands harass the characters (bandits)
 - Keep visitors away and make people want to leave Phandalin
+
+#### Info
+
 - Leader is Glasstaff
-- Sildar looks for gundren, iarno
-
-https://cros.land/2019/09/dm-guide-the-orcs-of-wyvern-tor/
-
-# Phandalin
+- Black Spider important
+- Ordered to target travellers, visitors, and prospectors.
+- One eyed monster in the hideout.
+- Captives near the crypts, skeleton guards, protected by cloaks.
 
 ## Lionshield Coster
+
 - Linene Graywind
 - Bette lynch
 - Merchant company out of Yaster
 - Caravan neer arrived
 
-### Halia Thornton*
-- Zhentarim
+### Halia Thornton (GET RID OF THE REDBRANDS)
 
-### Qelline Alderleaf
+- Zhentarim
+- 100gp for Glasstaff
+
+### Qelline Alderleaf (CARPS TUNNEL) (THUNDERTREE)
+
 - Helpful farmer. Son knows secret way to redbrands camp.
 
-### Sister Garaele*
+### Sister Garaele (BANSHEE)
+
 - Harper Agent. Elf Cleric. Shrine of Luck.
 
-### Harbin Wester
+### Harbin Wester (ORC TROUBLE)
+
 - Townmaster
 
+- Many arrows tribe, same as Cragmaw Castle.
+- Moving away from a more powerful creature.
+- 500gp
+
+https://cros.land/2019/09/dm-guide-the-orcs-of-wyvern-tor/
+
 ### Elmar Barthen
-![Elmar](Elmar-barthen.jpg)
-- Len and balding. 50 or so. Kindly.
+
+- Lean and balding. 50 or so. Kindly.
 - Two clerks Ander and Thistle who help in the shop.
 - Owns trading post. Pays reward for delivery.
 - Gundren is a friend. He is excited about the mine discovery.
 - If he learns of Gundens capture he urges the players to help.
-- Concerned about how redbrands affect business, town loaw and order. 
+- Concerned about how redbrands affect business, town loaw and order.
 - Tells players they are to be found at the sleeping giant inn.
 - Int check for background deets (DC 15)
 - Nundro and Tharden are camped somewhere outside of town, but he hasn't seen them in a tenday or more, expects them any day for supplies.
 
-### Daran Edermath*
-![[Daran-Edermath.jpg]]
+### Daran Edermath  (OLD OWL TROUBLE)
+
 - Lean, silver haired fighter. Half elf, over 100.
 - Served as a marshal and herald ont he Dragon Coast
 - Order of the gauntlet. Orchard keeper, former adventurer.
@@ -78,7 +102,7 @@ https://cros.land/2019/09/dm-guide-the-orcs-of-wyvern-tor/
 - Knows the Redbrands hang out at the sleeping giant inn.
 - Knows their base is under Tresendar Manor, ruins at the east of the town.
 
-# Spellforge Ballad
+#### Spellforge Ballad
 
 In a time of old, when legends were told,
 A tale of dwarves and gnomes, oh so bold.
