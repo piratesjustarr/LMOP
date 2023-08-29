@@ -14,17 +14,20 @@
 - Toblin told you that whilst he didn't know anything about Wave Echo Cave, you should ask around as he isn't local and isn't the best person to ask.
 - Toblen complained about a local gang called the Redbrands, who have been making trouble in the town.
 
-## Stonehill inn
+## Stonehill Inn
 
-Toblen
+Toblen:
+
 - Sildar resting his wounds, Sister Garaele attended him in the morning for healing and he should be up and about tomorrow.
+
+8cp
 
 Rumours:
 
 - Narth, Old Farmer: Sister Garaele recently left town for a few days and returned injured and exhausted.
 - Elsa, barmaid: Daran Edermath up at the orchard was an adventurer like you. He knows all sorts of things.
 - Lanar, a miner: Orc raiders on the eastern triboar trail, Master Harben is looking for someone to run them off.
-- Trilena, the innkeepers wife: Thel Dendrar, the local woodcarver was killed by the Redbrands when he stood up to them. After they came by his shop and harassed his wife. They murdered him in broad daylight in front of witnesses. They took his body, and now his widfe and children are missing too.
+- Trilena, the innkeepers wife: Thel Dendrar, the local woodcarver was killed by the Redbrands when he stood up to them. After they came by his shop and harassed his wife. They murdered him in broad daylight in front of witnesses. They took his body, and now his wife and children are missing too.
 - Pip, Toblen's son knows that Carp (Qelline Alderleaf's son) has found a secret tunnel in the woods!
 - Freda, a weaver: The redbrand hassle everyone, except the miner's exchange.
 
@@ -44,8 +47,8 @@ Rumours:
 
 #### Info
 
-- Leader is Glasstaff
-- Black Spider important
+- Leader is Glasstaff.
+- Black Spider important.
 - Ordered to target travellers, visitors, and prospectors.
 - One eyed monster in the hideout.
 - Captives near the crypts, skeleton guards, protected by cloaks.
@@ -87,7 +90,7 @@ https://cros.land/2019/09/dm-guide-the-orcs-of-wyvern-tor/
 - Owns trading post. Pays reward for delivery.
 - Gundren is a friend. He is excited about the mine discovery.
 - If he learns of Gundens capture he urges the players to help.
-- Concerned about how redbrands affect business, town loaw and order.
+- Concerned about how redbrands affect business, town law and order.
 - Tells players they are to be found at the sleeping giant inn.
 - Int check for background deets (DC 15)
 - Nundro and Tharden are camped somewhere outside of town, but he hasn't seen them in a tenday or more, expects them any day for supplies.
@@ -128,4 +131,4 @@ Battle ensued, with spells and swords clashing,
 The very cavern trembled, its pillars crashing.
 Wave Echo Cave crumbled, consumed by the fight,
 Leaving destruction, in its wake, day and night.
-Survivors were few, as hope slipped away,
+Survivors were few, as hope slipped away.

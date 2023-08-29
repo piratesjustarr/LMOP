@@ -8,7 +8,7 @@ https://gist.github.com/dkittle/b1a720ab8951b482698579762fa6b73a
 !servalias scm init attack scimitar -t
 !servalias slap init attack "unarmed strike" -t
 !servalias blow init attack "breath weapon" -t
-
+!servalias dag init attack dagger -t
 !servalias jav init attack "javelin" -t
 
 !servalias combat init begin
